@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!-- Old Microsoft fonts -->
+    <key>Arial-BoldItalicMS</key>
+    <string>Arial-BoldItalicMT</string>
+    <key>Arial-BoldMS</key>
+    <string>Arial-BoldMT</string>
+    <key>Arial-ItalicMS</key>
+    <string>Arial-ItalicMT</string>
+    <key>ArialMS</key>
+    <string>ArialMT</string>
+    <key>TimesNewRomanMS</key>
+    <string>TimesNewRomanPSMT</string>
+    <key>TimesNewRomanBdItMS</key>
+    <string>TimesNewRomanPS-BoldItalicMT</string>
+    <key>TimesNewRomanBdMS</key>
+    <string>TimesNewRomanPS-BoldMT</string>
+    <key>TimesNewRomanItMS</key>
+    <string>TimesNewRomanPS-ItalicMT</string>
+
+
+
+    <!-- Font names that changed between Tiger and Leopard -->
+    <key>BradleyHandITCTTBold</key>
+    <dict>
+        <key>font</key>
+        <string>BradleyHandITCTT-Bold</string>
+        <key>quiet</key>
+        <true/>
+    </dict>
+    <key>StoneSansSemITCTTSemi</key>
+    <dict>
+        <key>font</key>
+        <string>StoneSansITCTT-Semi</string>
+        <key>quiet</key>
+        <true/>
+    </dict>
+    <key>StoneSansSemITCTTSemiIta</key>
+    <dict>
+        <key>font</key>
+        <string>StoneSansITCTT-SemiIta</string>
+        <key>quiet</key>
+        <true/>
+    </dict>
+    <key>StoneSansITCTTBold</key>
+    <dict>
+        <key>font</key>
+        <string>StoneSansITCTT-Bold</string>
+        <key>quiet</key>
+        <true/>
+        <key>bold</key>
+        <true/>
+    </dict>
+
+
+
+    <!-- rdar://problem/7576224 -->
+    <key>Chalkboard</key>
+    <string>Chalkduster</string>
+    <key>Chalkboard-Bold</key>
+    <string>Chalkduster</string>
+
+
+
+    <!-- rdar://problem/7646976&7671556 -->
+    <key>HiraKakuPro-W3</key>
+    <string>HiraKakuProN-W3</string>
+
+    <key>HiraKakuPro-W6</key>
+    <dict>
+        <key>font</key>
+        <string>HiraKakuProN-W6</string>
+        <key>bold</key>
+           <true/>
+    </dict>
+
+    <key>HiraKakuStd-W8</key>
+    <dict>
+        <key>font</key>
+        <string>HiraKakuProN-W6</string>
+        <key>bold</key>
+           <true/>
+    </dict>
+
+    <key>HiraKakuStdN-W8</key>
+    <dict>
+        <key>font</key>
+        <string>HiraKakuProN-W6</string>
+        <key>bold</key>
+           <true/>
+    </dict>
+
+    <key>HiraMaruPro-W4</key>
+    <string>HiraKakuProN-W3</string>
+
+    <key>HiraMaruProN-W4</key>
+    <string>HiraKakuProN-W3</string>
+
+    <key>HiraMinPro-W3</key>
+    <string>HiraMinProN-W3</string>
+
+    <key>HiraMinPro-W6</key>
+    <dict>
+        <key>font</key>
+        <string>HiraMinProN-W6</string>
+        <key>bold</key>
+           <true/>
+    </dict>
+
+    <key>HiraginoSansGB-W3</key>
+    <string>HiraKakuProN-W3</string>
+
+    <key>HiraginoSansGB-W6</key>
+    <dict>
+        <key>font</key>
+        <string>HiraKakuProN-W6</string>
+        <key>bold</key>
+           <true/>
+    </dict>
+
+    <key>Times-Roman</key>
+    <string>TimesNewRomanPSMT</string>
+    <key>Times-Italic</key>
+    <string>TimesNewRomanPS-ItalicMT</string>
+    <key>Times-Bold</key>
+    <string>TimesNewRomanPS-BoldMT</string>
+    <key>Times-BoldItalic</key>
+    <string>TimesNewRomanPS-BoldItalicMT</string>
+
+    <!-- rdar://problem/9771888 -->
+	<key>MS-Gothic</key>
+	<string>STHeitiTC-Medium</string>
+	<key>MS-Mincho</key>
+	<string>HiraMinProN-W3</string>
+	<key>MS-PGothic</key>
+	<string>STHeitiTC-Medium</string>
+	<key>MS-PMincho</key>
+	<string>HiraMinProN-W3</string>
+	<key>Batang</key>
+	<string>HiraMinProN-W3</string>
+	
+</dict>
+</plist>

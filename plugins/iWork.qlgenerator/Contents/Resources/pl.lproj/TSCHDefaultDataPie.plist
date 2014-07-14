@@ -1,0 +1,30 @@
+{
+    Grid =     {
+        Direction = ByColumn;
+        Values =         (
+                        (
+                91,
+                76,
+                28,
+                26,
+                21,
+                18
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                "kwiecie\U0144",
+                Maj,
+                czerwiec,
+                lipiec,
+                "sierpie\U0144",
+                "wrzesie\U0144"
+            );
+            RowNames =             (
+                "Region 1"
+            );
+        };
+    };
+    Model =     {
+    };
+}
